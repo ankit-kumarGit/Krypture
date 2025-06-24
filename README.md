@@ -32,7 +32,7 @@
 
 ## **Tech Stack**
 
-| ⚙️ Technology         | 🔧 Usage                         |
+|  Technology          |    Usage                         |
 |----------------------|----------------------------------|
 | **React.js**         | Frontend framework               |
 | **React Router**     | Routing between pages            |
