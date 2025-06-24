@@ -6,7 +6,7 @@
 
 ## **Live Preview**
 
-> _Coming Soon_ (Add your deployment link here)
+https://krypture.netlify.app/
 
 ---
 
